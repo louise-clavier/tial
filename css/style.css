@@ -1,0 +1,53 @@
+/*Importing Google fonts*/
+@import url("https://fonts.googleapis.com/css2?family=Gideon+Roman&display=swap");
+
+/*Importing component files*/
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+/*General style rules for fonts and colors*/
+body {
+    background-color: whitesmoke;
+    color: #5D5D81;
+    font-size: 18px;
+    font-family: Times, serif;
+    line-height: 1.6;
+    margin:0px;
+    text-align:center;
+ }
+
+h1,h2,h3{
+	font-weight:bold;
+}
+
+h1{
+	color:white;
+	font-size:35px;
+	font-family:Times, serif;
+}
+
+h2{
+	color:#546A7B;
+	font-size:27px;
+	font-family:Times, serif;
+	text-align: center;
+}
+
+h3{
+	color:#546A7B;
+	font-size: 21px;
+	font-family: 'Gideon Roman', cursive;
+	text-align: center;
+}
+
+a{
+	font-family:Times, serif;
+	text-decoration:none;
+	color:#546A7B;
+	font-weight:600;
+	font-size:16px;
+
+}

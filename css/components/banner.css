@@ -1,0 +1,88 @@
+/*Menu bannière*/
+.banner {
+	background-image: url(../../images/background.jpg);
+	color:white;
+	padding: 150px 0px;
+	background-size:cover;
+	background-position:center;
+}
+
+.banner h1 {
+	color:white;
+	font-size:100px;
+	text-shadow: 0px 10px 30px rgba(0,0,0,0.4)
+}
+
+.banner h2 {
+	color:white;
+	font-size:30px;
+	font-weight:lighter;
+	opacity:0.8;
+	margin-bottom:40px;
+}
+
+/*Créateurs bannière*/
+.créateurs{
+	background-image: url(../../images/créateurs.jpg);
+	color:white;
+	padding: 150px 0px;
+	background-size:cover;
+	background-position:center;
+}
+
+.créateurs h1 {
+	color:white;
+	font-size:93px;
+	text-shadow: 0px 10px 30px rgba(0,0,0,0.4)
+}
+
+.créateurs h2 {
+	color:white;
+	font-size:30px;
+	font-weight:lighter;
+	margin-bottom:40px;
+}
+
+/*Inspiration bannière*/
+.inspirations {
+	background-image: url(../../images/inspirations.jpg);
+	color:white;
+	padding: 150px 0px;
+	background-size:cover;
+	background-position:center;
+}
+
+.inspirations h1 {
+	color:white;
+	font-size:93px;
+	text-shadow: 0px 10px 30px rgba(0,0,0,0.4)
+}
+
+.inspirations h2 {
+	color:white;
+	font-size:30px;
+	font-weight:lighter;
+	margin-bottom:40px;
+}
+
+/*Galerie bannière*/
+.galerie{
+	background-image: url(../../images/galerie.jpg);
+	color:white;
+	padding: 150px 0px;
+	background-size:cover;
+	background-position:center;
+}
+
+.galerie h1 {
+	color:white;
+	font-size:93px;
+	text-shadow: 0px 10px 30px rgba(0,0,0,0.4)
+}
+
+.galerie h2 {
+	color:white;
+	font-size:30px;
+	font-weight:lighter;
+	margin-bottom:40px;
+}
